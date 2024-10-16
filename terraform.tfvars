@@ -1,0 +1,5 @@
+project_id        = "my-gcp-project-id"
+region            = "us-central1"
+cloud_run_image   = "gcr.io/my-project/my-app:latest"
+ssl_certificate   = "path/to/cert.pem"
+ssl_private_key   = "path/to/key.pem"
